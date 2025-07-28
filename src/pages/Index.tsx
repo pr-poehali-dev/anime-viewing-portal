@@ -106,7 +106,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-4">
-              <h1 className="text-2xl font-bold text-foreground">ANIME STREAM</h1>
+              <h1 className="text-2xl font-bold text-foreground">ANUME PORTAL RAU</h1>
               <nav className="hidden md:flex space-x-6">
                 <a href="#" className="text-sm font-medium text-foreground/80 hover:text-foreground transition-colors">
                   Каталог
